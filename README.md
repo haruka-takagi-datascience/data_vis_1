@@ -1,5 +1,7 @@
 # Breaking into Bicycle Thefts - Insights from Toronto, Ontario
 
+<img src="images/bike.png" width="80%" height="80%">
+
 Did you know Toronto is one of the safest cities across the globe? The Safe Cities Index published by The Economist ranks Toronto as the second safest urban city in 2021! (The Economist, Safe cities index 2019) With that being said, Toronto does experience different levels of crime: even bicycle theft. Cycling is a rapidly growing transportation mode in the city, promoting physical activity, cleaner environments and eased vehicle congestion. However, the appeal is ruined if you worry about your bike getting stolen. For the cyclist community, we want to inform them of how safe the city is when it comes to their bikes.
 
 From our study, the City of Toronto and their police divisions stand to learn where their attention should be focused to improve bicycle safety in its 140 neighbourhoods.

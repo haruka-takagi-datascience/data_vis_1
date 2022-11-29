@@ -1,6 +1,6 @@
 # Breaking into Bicycle Thefts - Insights from Toronto, Ontario
 
-<img src="images/bike.jpg" width="80%" height="80%">
+<img src="images/bike.jpg">
 
 Did you know Toronto is one of the safest cities across the globe? The Safe Cities Index published by The Economist ranks Toronto as the second safest urban city in 2021! (The Economist, Safe cities index 2019) With that being said, Toronto does experience different levels of crime: even bicycle theft. Cycling is a rapidly growing transportation mode in the city, promoting physical activity, cleaner environments and eased vehicle congestion. However, the appeal is ruined if you worry about your bike getting stolen. For the cyclist community, we want to inform them of how safe the city is when it comes to their bikes.
 
@@ -20,7 +20,7 @@ With this visualization let us answer the following two questions.
 1. Is bicycle theft occurring evenly in all neighborhoods in Toronto?
 2. Which cluster of neighborhoods seem to have the most bicycle theft?
 
-<img src="images/image_1.png" width="80%" height="80%">
+<img src="images/image_1.png">
 
 The map above shows that bicycle theft in Toronto is concentrated in a number of neighborhoods. We also see that three neighborhoods; Waterfront Communities, Bay Street Corridor & Church-Yonge Corridor are the only neighborhoods that account for more than 6% of the bicycle thefts. The city of Toronto has its downtown closest to these three neighborhoods, so it is unsurprising that there are the most bicycle thefts concentrated in these areas. 
 
@@ -32,7 +32,7 @@ With any visualization we should also note its shortcomings. Note that the map o
 
 From examining the map, we can visually observe that most parts of Toronto do not have a major percentage of bike thefts. However, we do see a concentration near the most southern ends of Toronto. Let’s compare the 140 neighbourhoods in the most recent year 2019 on a large scale to see how it is distributed individually. 
 
-<img src="images/image_2.png" width="80%" height="80%">
+<img src="images/image_2.png">
 
 By interpreting the Pareto chart above, we see the frequency of thefts is high in only some select neighborhoods. The line, defined for the accumulation of thefts, shows its largest leap from zero is only in the beginning, and then it tapers off for the majority. 
 
@@ -44,7 +44,7 @@ Our main takeaway? More than half of bike thefts occur in 6% of Toronto.
 
 To determine any changes in the number of thefts between the two years 2014 and 2019, we have created a dumbbell plot. We aim to highlight how top 10 neighbourhoods have changed within the span of six years. 
 
-<img src="images/image_3.png" width="80%" height="80%">
+<img src="images/image_3.png">
 
 Evidently, most of our top 10 neighborhoods have experienced an increase in the number of thefts. Some neighborhoods had over a 100% change in bike thefts, while others were less drastic. In general, it seems these neighborhoods have always had high theft rates for bicycles. Our highest neighborhood for bike theft in 2019, Waterfront, was not always the highest, seemingly having captured this position from Bay Street Corridor. 
 
@@ -54,7 +54,7 @@ Based on what we see, bike thefts have steadily increased from 2014, only to dec
 
 With Toronto being one of the most populous cities in North America, it makes us wonder: Does population within Toronto Neighbourhoods affect bike theft rates? This question resulted in us creating a visualization where we compare bike thefts to the population size of each neighbourhood, over the span of 6 years from 2014 to 2019. (City of Toronto, Open data dataset 2017) 
 
-<img src="images/image_4.png" width="80%" height="80%">
+<img src="images/image_4.png">
 
 To create a comprehensible visualization, we’re examining the top 25 neighborhoods for bike theft each year. This includes the top 10 that we have been keen on analyzing. While the horizontal axis represents the population size, the size of each bubble plotted shows how many bike thefts occurred. We’ve highlighted some particular communities in the chart, and it’s becoming evident that population size is not necessarily a factor for bike theft occurrence. 
 
@@ -72,7 +72,7 @@ With this visualization, we aim to answer the following questions.
 1. Can I count on my bicycle to be recovered after theft in Toronto?
 2. Has recovery rate of bicycle thefts improves over the years?
 
-<img src="images/image_5.png" width="80%" height="80%">
+<img src="images/image_5.png">
 
 The visualization above shows the percentage breakdown of the status os bicycle thefts in Toronto from 2014 to 2019. Taking the most recent year of 2019, we can see that only 0.49% of bicycles were recovered after theft, in comparison to the 97.09% of bicycles that remain stolen. The visualization shows that this pattern in a recovery and stolen rates remains relatively unchanged over the years. And we also see that ever so slightly that recovery rates have been decreasing when comparing across years of 2014 to 2019. Unfortunately, this visualization shows the grim reality of recovery after bicycle theft. We can observe that in Toronto, after your bicycle has been stolen we should not count for it to be recovered after.
 
@@ -86,7 +86,7 @@ With this visualization, let us try to answer the following questions.
 1. Which seasons are the most dangerous seaons for bicycle theft in Toronto?
 2. What time is the most dangerous/safest time to park your bicycle in Toronto?
 
-<img src="images/images_6.png" width="80%" height="80%">
+<img src="images/images_6.png">
 
 The visualization above shows a heat map of the bicycle thefts in Toronto per time and month for the years between 2014 to 2019. Firstly, from the visualization we can see that the patterns involving time and month are very consistent across the years of 2014 and 2019. This indicates to us that the most dangerous times and months for bicycle theft has remained the same across these 5 years.
 

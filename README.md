@@ -98,13 +98,17 @@ The reader should keep in mind that this visualization is prone to some subjecti
 
 While we went through a lot of data and a lot of analysis, our main findings can be summarized in the six points below.
 
-Most bicycle thefts in Toronto are happening in the neighborhoods near downtown Toronto, and bicycle theft numbers decrease as you move farther away from the downtown.
-More than half of the bicycle thefts occur in the 10 neighbourhoods of Toronto out of 140.
-The top 10 neighborhoods have experienced an increase in the number of bicycle thefts over the years 2014 to 2019.
-Population size is not necessarily a factor for bicycle theft occurrence. A large population in a neighborhood does not mean higher bicycle thefts.
-If your bicycle is ever stolen in Toronto, it is very unlikely for it to be recovered.
-In Toronto, bicycle thefts are most frequent in the summer months at night time.
-What can we do with these findings? And how can cyclist protect themselves from bicycle thieves after knowing our results? We would like to suggest some actionable insights from our data results. To combat the rising bicycle theft cases, the Toronto police should increase police funding and patrol in the summer nights for the top 10 bicycle theft prone neighbourhoods. For our fellow cyclists and bicycle owners, we suggest to be more careful of parking you bicycle when parking in one of the top 10 bicycle theft prone neighbourhoods. Possible steps cyclists can take is to get your bicycle registered, get more secure locks or add a GPS to your bicycle. We would also suggest avoiding leaving your bicycle parked outside overnight in the summer months as well. We hope these data visualizations and insights gave you a better idea of the bicycle theft reality in Toronto, and helped you keep your bicycle safer and in your hands.
+1. Most bicycle thefts in Toronto are happening in the neighborhoods near downtown Toronto, and bicycle theft numbers decrease as you move farther away from the downtown.
+2. More than half of the bicycle thefts occur in the 10 neighbourhoods of Toronto out of 140.
+3. The top 10 neighborhoods have experienced an increase in the number of bicycle thefts over the years 2014 to 2019.
+4. Population size is not necessarily a factor for bicycle theft occurrence. A large population in a neighborhood does not mean higher bicycle thefts.
+5. If your bicycle is ever stolen in Toronto, it is very unlikely for it to be recovered.
+6. In Toronto, bicycle thefts are most frequent in the summer months at night time.
+
+What can we do with these findings? And how can cyclist protect themselves from bicycle thieves after knowing our results? 
+We would like to suggest some actionable insights from our data results. To combat the rising bicycle theft cases, the Toronto police should increase police funding and patrol in the summer nights for the top 10 bicycle theft prone neighbourhoods. 
+
+For our fellow cyclists and bicycle owners, we suggest to be more careful of parking you bicycle when parking in one of the top 10 bicycle theft prone neighbourhoods. Possible steps cyclists can take is to get your bicycle registered, get more secure locks or add a GPS to your bicycle. We would also suggest avoiding leaving your bicycle parked outside overnight in the summer months as well. We hope these data visualizations and insights gave you a better idea of the bicycle theft reality in Toronto, and helped you keep your bicycle safer and in your hands.
 
 ## References
 

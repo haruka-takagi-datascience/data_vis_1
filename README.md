@@ -86,7 +86,7 @@ With this visualization, let us try to answer the following questions.
 1. Which seasons are the most dangerous seaons for bicycle theft in Toronto?
 2. What time is the most dangerous/safest time to park your bicycle in Toronto?
 
-<img src="images/image_6.png" width="80%" height="80%">
+<img src="images/images_6.png" width="80%" height="80%">
 
 The visualization above shows a heat map of the bicycle thefts in Toronto per time and month for the years between 2014 to 2019. Firstly, from the visualization we can see that the patterns involving time and month are very consistent across the years of 2014 and 2019. This indicates to us that the most dangerous times and months for bicycle theft has remained the same across these 5 years.
 

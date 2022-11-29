@@ -112,8 +112,8 @@ For our fellow cyclists and bicycle owners, we suggest to be more careful of par
 
 ## References
 
-Open data dataset. City of Toronto Open Data Portal. (n.d.). Retrieved November 10, 2022, from https://open.toronto.ca/dataset/wellbeing-toronto-demographics/
+Open data dataset. City of Toronto Open Data Portal. (n.d.). Retrieved November 10, 2022, from [https://open.toronto.ca/dataset/wellbeing-toronto-demographics/](https://open.toronto.ca/dataset/wellbeing-toronto-demographics/)
 
-The Economist Newspaper. (n.d.). Safe cities index 2019. The Economist. Retrieved November 10, 2022, from https://safecities.economist.com/safe-cities-index-2019/
+The Economist Newspaper. (n.d.). Safe cities index 2019. The Economist. Retrieved November 10, 2022, from [https://safecities.economist.com/safe-cities-index-2019/](https://open.toronto.ca/dataset/wellbeing-toronto-demographics/)
 
-Toronto Police Service. (n.d.). Bicycle thefts. Public Safety Data Portal. Retrieved November 10, 2022, from https://data.torontopolice.on.ca/datasets/TorontoPS::bicycle-thefts/about
+Toronto Police Service. (n.d.). Bicycle thefts. Public Safety Data Portal. Retrieved November 10, 2022, from [https://data.torontopolice.on.ca/datasets/TorontoPS::bicycle-thefts/about](https://open.toronto.ca/dataset/wellbeing-toronto-demographics/)

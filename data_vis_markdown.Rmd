@@ -160,7 +160,7 @@ sh2 <- merge(sh, hood_data, by.x='AREA_S_CD', by.y='Hood_ID')
 points <- fortify(sh, region = 'AREA_S_CD')
 
 # Plot the neighborhoods
-register_google(key='AIzaSyBz4MCpBk9BphLx0YOuV99PTf9vq7MLbkY')
+register_google(key='---------')
 
 lats<-c(43.55,43.85)
 lons<-c(-79.65,-79.1)
